@@ -7,7 +7,7 @@ function Footer() {
     <Grid
       container
       spacing={2}
-      sx={{ bgcolor: "#f1f1f1", py: 6, px: 6 }}
+      sx={{ bgcolor: "#f1f1f1", py: 6, px: 6, height: '280px'}}
       display={"flex"}
     >
       <Grid
